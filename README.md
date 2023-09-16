@@ -10,6 +10,7 @@
 - [Oracle Cloud Data Management 2022 Foundations Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=73AC08648CACD3285B113FC8255D687B5384CF408931735A7AC346A7A20472ED) by Oracle December 2022
 - [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B44992A462323AADAFEE59F44B430F760CD5AF56A07B13A929E8E1C037B89375) by Oracle November 2022
 - [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/certificates/42b28386-2bb1-4c84-9853-99bde7054759) by HarvardX's CS50 November 2022
+- [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/feebcc2f87d84a73ae1ec59bfaabc0e6) by Cognitive Class October 2022
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
