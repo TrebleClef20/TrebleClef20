@@ -18,9 +18,9 @@
 <p align="center">
 <img width="700" alt="image_2023-11-26_00-31-22" src="https://github.com/TrebleClef20/TrebleClef20/assets/65029347/3e8b4e7a-1fe7-47cd-8d87-ac95669f97b2">
 
-<img width="900" alt="image_2023-11-26_00-54-27" src="https://github.com/TrebleClef20/TrebleClef20/assets/65029347/77de461a-5bdf-40b8-a875-0fc0079dbec7">
+<img width="700" alt="image_2023-11-26_00-54-27" src="https://github.com/TrebleClef20/TrebleClef20/assets/65029347/77de461a-5bdf-40b8-a875-0fc0079dbec7">
 
-<img width="900" alt="image_2023-11-26_00-55-09" src="https://github.com/TrebleClef20/TrebleClef20/assets/65029347/af64e122-8e3e-49a4-81cc-4e1b28c32667">
+<img width="700" alt="image_2023-11-26_00-55-09" src="https://github.com/TrebleClef20/TrebleClef20/assets/65029347/af64e122-8e3e-49a4-81cc-4e1b28c32667">
 </p>
 
 ## Certificates and Course Completions
