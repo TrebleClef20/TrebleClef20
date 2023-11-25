@@ -1,5 +1,4 @@
 <img src="https://github.com/TrebleClef20/TrebleClef20/blob/main/flow.svg" />
-
 <h1 align="center">Hi, I'm Trebiger Harah Calma</h1>
 <h3 align="center">A 3rd Year Computer Science student.</h3>
 
