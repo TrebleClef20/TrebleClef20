@@ -19,6 +19,17 @@
 - [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/certificates/42b28386-2bb1-4c84-9853-99bde7054759) by HarvardX's CS50 November 2022
 - [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/feebcc2f87d84a73ae1ec59bfaabc0e6) by Cognitive Class October 2022
 
+## Course Completions
+<p align="left">
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/bc8a45a9216f5582e45930b9cb6fb2651dd94521" title="Data Scientist Professional"><img src="https://media.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1709164800&v=beta&t=nw4-c14iecX6q0pl-WyHc46TH1itt3mjyD_sCyJI0qw" width="70px" align="left"/></a>
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/bc8a45a9216f5582e45930b9cb6fb2651dd94521"><strong> ## Data Scientist Professional</strong></a>
+<br>DataCamp
+<br>Issued Nov 2023</p>
+<br>
+
+<p align="left">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/trebleclef20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trebleclef20" height="30" width="40" /></a>
