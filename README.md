@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Trebiger Harah Calma</h1>
 <h3 align="center">A 3rd Year Computer Science student.</h3>
 
+![](https://komarev.com/ghpvc/?username=TrebleClef20)
+
 ## Education
 - BS Computer Science 2021 - Present (New Era University)
 
