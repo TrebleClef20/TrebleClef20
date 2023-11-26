@@ -69,7 +69,7 @@
     <br>Issued Nov 2023</p>
 <p align="left">
 <details>
-    <summary>View 31 more certificates from Datacamp</summary>
+    <summary>View <strong>31</strong> more certificates from Datacamp</summary>
         <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/cb4cdd79bfd7581a355bb27482db3197c2491bfb"><strong>Cleaning Data in Python</strong></a> issued Nov 2023</ul>
         <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/cac5cb535a6dbcb92ecf7fb36e48d63197ba69dc"><strong>Data Communication Concepts</strong></a> issued Nov 2023</ul>
         <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b119851ca27a9831de269ffe2466cec172308070"><strong>Data Manipulation with pandas</strong></a> issued Nov 2023</ul>
