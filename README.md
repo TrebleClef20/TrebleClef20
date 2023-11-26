@@ -46,15 +46,27 @@
 
 
 
-
-
 ## Certificates and Course Completions
 <p align="left">
-<a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/bc8a45a9216f5582e45930b9cb6fb2651dd94521" title="Data Scientist Professional"><img src="https://media.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1709164800&v=beta&t=nw4-c14iecX6q0pl-WyHc46TH1itt3mjyD_sCyJI0qw" width="70px" align="left"/></a>
-<a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/bc8a45a9216f5582e45930b9cb6fb2651dd94521"><strong>Data Scientist Professional</strong></a>
-<br>DataCamp
-<br>Issued Nov 2023</p>
-<br>
+    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/bc8a45a9216f5582e45930b9cb6fb2651dd94521" title="Statement of Accomplishment">
+        <img src="https://media.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1709164800&v=beta&t=nw4-c14iecX6q0pl-WyHc46TH1itt3mjyD_sCyJI0qw" width="70px" align="left"/>
+    </a>
+    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/bc8a45a9216f5582e45930b9cb6fb2651dd94521">
+        <strong>Data Scientist Professional Track</strong>
+    </a>
+    <br>DataCamp
+    <br>Issued Nov 2023</p>
+<p align="left">
+
+<p align="left">
+    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a0fe0ae72627152f313741077442a4bb79e6a144" title="Statement of Accomplishment">
+        <img src="https://media.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1709164800&v=beta&t=nw4-c14iecX6q0pl-WyHc46TH1itt3mjyD_sCyJI0qw" width="70px" align="left"/>
+    </a>
+    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a0fe0ae72627152f313741077442a4bb79e6a144">
+        <strong>Data Scientist Track</strong>
+    </a>
+    <br>DataCamp
+    <br>Issued Nov 2023</p>
 <p align="left">
 
 - [Business Analytics with Excel](https://simpli-web.app.link/e/ap7hTGsmTCb) by Simplilearn September 2023
