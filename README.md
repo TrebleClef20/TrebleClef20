@@ -68,13 +68,39 @@
     <br>DataCamp
     <br>Issued Nov 2023</p>
 <p align="left">
-    
 <details>
-<summary>View 32 more certificate from Datacamp</summary>
-- [Business Analytics with Excel](https://simpli-web.app.link/e/ap7hTGsmTCb) by Simplilearn September 2023
-- [Business Analytics with Excel](https://simpli-web.app.link/e/ap7hTGsmTCb) by Simplilearn September 2023- 
-- [Business Analytics with Excel](https://simpli-web.app.link/e/ap7hTGsmTCb) by Simplilearn September 2023
-<br>
+    <summary>View 31 more certificates from Datacamp</summary>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/cb4cdd79bfd7581a355bb27482db3197c2491bfb"><strong>Cleaning Data in Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/cac5cb535a6dbcb92ecf7fb36e48d63197ba69dc"><strong>Data Communication Concepts</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b119851ca27a9831de269ffe2466cec172308070"><strong>Data Manipulation with pandas</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b987da5a5baaaef8646c924b4099eb047bc3c83b"><strong>Developing Python Packages</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/ccfa0d8a1f1ee259266c683540d8b42007470a53"><strong>Exploratory Data Analysis in Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/bbecc17bc76a53013511a3e7b1837923880a30a3"><strong>Hypothesis Testing in Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1bdebcacf82f4e33075c2dfb63c9c4de5aa4b651"><strong>Intermediate Data Visualization with Seaborn</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/6c855ba967f7d50e8276c11ab1032912dc3aaebc"><strong>Intermediate Importing Data in Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5e71e6e2a0eaea5d9d50a69c92499aee5c798890"><strong>Intermediate Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/34746c7ab713c419354351af8c86020a3d8b8cb3"><strong>Intermediate SQL</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/ff9c9f7620382ce8b6b4c88a14dc0bb06598e994"><strong>Introduction to Data Visualization with Matplotlib</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/31cd28c882fadfd016b5d567133207d92b0e5ea9"><strong>Introduction to Data Visualization with Seaborn</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dab5299f0dd2b485eee7c753337bd1bca8dd36bc"><strong>Introduction to Git</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/c2cfe65f5d01eca4d26a1bdaa501bd85a9b6ce9e"><strong>Introduction to Importing Data in Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2ec3edbb13aef9731515b6279f27f58d89f2282a"><strong>Introduction to Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2372c31853c79b48a86ca97e00c0170b3a814fa0"><strong>Introduction to Regression with statsmodels in Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/9613065ef728007ac19f175a88fb9e8ca4cf5a8c"><strong>Introduction to SQL</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/a0e1ce1122f9177228df3a1788a93e05138704bb"><strong>Introduction to Statistics in Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/3e135492031cc34165af67bd26d927f249325585"><strong>Joining Data in SQL</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e94ccfb9becd85a1a77edbdd3d42ea964abb587c"><strong>Joining Data with pandas</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1d29e9f1f2515b67065eb1f51cc5a5747eacc4e6"><strong>Machine Learning for Business</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/3262a09fc4acae84f5cd88ae47658476c2f05926"><strong>Machine Learning with Tree-Based Models in Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/87b5e0380c088625ad679cd8aebd51355384e007"><strong>Preprocessing for Machine Leaming in Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/825df0aa79e49022ed651eb3a182048be9cb2987"><strong>Python Data Science Toolbox (Part 1)</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/f98e3329595a8da36cff90280007c9475a8757ad"><strong>Python Data Science Toolbox (Part 2)</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/7340304b06598e63874f1b49eb9e75df102d264c"><strong>Sampling in Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/8b92cba1fe2e5a272aced41f1f5c5cd55a7dfab7"><strong>Supervised Leaming with scikit-learn</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/6f16f650bcf4d5002df677f58318826dea9463ba"><strong>Unsupervised Leaming in Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/9f85ea3022a089abad722064e8fafadadb335499"><strong>Working with Categorical Data in Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/524ad6feabe60e8b187469bb52d9ed096e23b3b7"><strong>Working with Dates and Times in Python</strong></a> issued Nov 2023</ul>
+        <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b5736c0242a97efa2fd9377c7e2650732b7cb277"><strong>Writing Functions in Python</strong></a> issued Nov 2023</ul>
 </details>
 
 
