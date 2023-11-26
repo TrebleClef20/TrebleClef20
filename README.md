@@ -3,7 +3,7 @@
 <img align="right" src="https://linkedin-github-readme.onrender.com/api/render/Trebiger%20Harah%20Calma/Data%20Analyst/Student/3rd%20yr%20BSCS/dark/https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FACg8ocKZTUfQNJLQfTS4NeyW6xqxtskcIebswKza516mdS7mAg%3Ds432-c-no" />
 
 <h1 align="center">Hi, I'm Trebiger Harah Calma</h1>
-<h3 align="center">A 3rd Year Computer Science student.</h3>
+<h3 align="center">A Certified Data Analyst Associate.</h3>
 
 <p align="center"> 
   Visitor count<br>
