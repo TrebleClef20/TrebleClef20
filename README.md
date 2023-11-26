@@ -5,6 +5,18 @@
 <h1 align="center">Hi, I'm Trebiger Harah Calma</h1>
 <h3 align="center">A Certified Data Analyst Associate.</h3>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/trebleclef20/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto: trebigerharahcalma@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website">
+    </a>
+    <a href="https://t.me/TrebleClef20">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&color=white&logo=telegram&logoColor=blue" alt="Telegram">
+    </a>
+</p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/TrebleClef20/count.svg" />
