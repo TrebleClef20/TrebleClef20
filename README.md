@@ -1,6 +1,8 @@
 <img src="https://github.com/TrebleClef20/TrebleClef20/blob/main/flow.svg" />
 
-<img align="right" src="https://linkedin-github-readme.onrender.com/api/render/Trebiger%20Harah%20Calma/Data%20Analyst/Student/3rd%20yr%20BSCS/dark/https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FACg8ocKZTUfQNJLQfTS4NeyW6xqxtskcIebswKza516mdS7mAg%3Ds432-c-no" />
+<a href="https://www.linkedin.com/in/trebleclef20/">
+    <img align="right" src="https://linkedin-github-readme.onrender.com/api/render/Trebiger%20Harah%20Calma/Data%20Analyst/Student/3rd%20yr%20BSCS/dark/https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FACg8ocKZTUfQNJLQfTS4NeyW6xqxtskcIebswKza516mdS7mAg%3Ds432-c-no" />
+</a>
 
 <h1 align="center">Hi, I'm Trebiger Harah Calma</h1>
 <h3 align="center">A Certified Data Analyst Associate.</h3>
