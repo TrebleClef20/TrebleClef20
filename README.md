@@ -2,6 +2,31 @@
 <h1 align="center">Hi, I'm Trebiger Harah Calma</h1>
 <h3 align="center">A 3rd Year Computer Science student.</h3>
 
+               ^!.            
+             .P@@B:           
+             G@#5BP           
+            7@G. :#.          
+            J@:  7&:          
+            !G  7@B           
+            .P!P@@!           
+            ~#@@@?            
+          ~P@@@G~             
+        :5@@@PG:              
+       ~&@&Y: 7J              
+      ^&@5:  !5&B#GY^         
+      Y@P  ^B@BBB5#@@Y        
+      J@7  P@J ^P  ?@@!       
+      :#5  7@!  P~  G@7       
+       ^GY. ^?^ !P ~&P.       
+         7YJ7~~~!#Y57         
+           .^~~~^5Y           
+                 ^B           
+          ?B#B!   B~          
+         :@@@@J  .B^          
+          7G#?^~75?           
+            :~!!~.            
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/TrebleClef20/count.svg" />
