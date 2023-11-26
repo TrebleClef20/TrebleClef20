@@ -55,8 +55,8 @@
         <strong>Data Scientist Professional Track</strong>
     </a>
     <br>DataCamp
-    <br>Issued Nov 2023</p>
-<p align="left">
+    <br>Issued Nov 2023
+</p>
 
 <p align="left">
     <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a0fe0ae72627152f313741077442a4bb79e6a144" title="Statement of Accomplishment">
@@ -66,10 +66,10 @@
         <strong>Data Scientist Track</strong>
     </a>
     <br>DataCamp
-    <br>Issued Nov 2023</p>
-<p align="left">
+    <br>Issued Nov 2023
+</p>
 <details>
-    <summary>View <strong>31</strong> more certificates from Datacamp</summary>
+    <summary><strong>View 31 more certificates from Datacamp</strong></summary>
         <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/cb4cdd79bfd7581a355bb27482db3197c2491bfb"><strong>Cleaning Data in Python</strong></a> issued Nov 2023</ul>
         <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/cac5cb535a6dbcb92ecf7fb36e48d63197ba69dc"><strong>Data Communication Concepts</strong></a> issued Nov 2023</ul>
         <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b119851ca27a9831de269ffe2466cec172308070"><strong>Data Manipulation with pandas</strong></a> issued Nov 2023</ul>
@@ -103,10 +103,62 @@
         <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b5736c0242a97efa2fd9377c7e2650732b7cb277"><strong>Writing Functions in Python</strong></a> issued Nov 2023</ul>
 </details>
 
-- [Business Analytics with Excel](https://simpli-web.app.link/e/ap7hTGsmTCb) by Simplilearn September 2023
-- [Data Analysis with Python](https://freecodecamp.org/certification/TrebleClef20/data-analysis-with-python-v7) by freeCodeCamp August 2023
-- [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/certificates/42b28386-2bb1-4c84-9853-99bde7054759) by HarvardX's CS50 November 2022
-- [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/feebcc2f87d84a73ae1ec59bfaabc0e6) by Cognitive Class October 2022
+<p align="left">
+    <a href="https://simpli-web.app.link/e/ap7hTGsmTCb" title="Declaration of Completion">
+        <img src="https://media.licdn.com/dms/image/C510BAQEvNU0EYy6wUw/company-logo_100_100/0/1631319527790?e=1709164800&v=beta&t=rBrJhSnP5T7idPRLmgneBppPTCZSBrLEj6dbp2NQgFo" width="70px" align="left"/>
+    </a>
+    <a href="https://simpli-web.app.link/e/ap7hTGsmTCb">
+        <strong>Business Analytics with Excel</strong>
+    </a>
+    <br>Simplilearn
+    <br>Issued Sept 2023
+</p>
+
+<p align="left">
+    <a href="https://www.credly.com/badges/73acfb54-af31-47f6-a6c9-fc71d6d316e0/public_url" title="Credly Badge">
+        <img src="https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_100_100/0/1688482473854/cisco_logo?e=1709164800&v=beta&t=YGt1QdEnnBta1VS95rW-1lFhB9884MB4h31P71_zQ1k" width="70px" align="left"/>
+    </a>
+    <a href="https://www.credly.com/badges/73acfb54-af31-47f6-a6c9-fc71d6d316e0/public_url">
+        <strong>Data Analytics Essentials</strong>
+    </a>
+    <br>Cisco
+    <br>Issued Sept 2023
+</p>
+
+<p align="left">
+    <a href="https://freecodecamp.org/certification/TrebleClef20/data-analysis-with-python-v7" title="Developer Certification">
+        <img src="https://media.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_100_100/0/1630639684997/free_code_camp_logo?e=1709164800&v=beta&t=_oT9w_MOjvcKUdTP_qVO7Fmmk3yZNw27t_ewB8Z_vbs" width="70px" align="left"/>
+    </a>
+    <a href="https://freecodecamp.org/certification/TrebleClef20/data-analysis-with-python-v7">
+        <strong>Data Analysis with Python</strong>
+    </a>
+    <br>FreeCodeCamp
+    <br>Issued Aug 2023
+</p>
+
+<p align="left">
+    <a href="https://cs50.harvard.edu/certificates/42b28386-2bb1-4c84-9853-99bde7054759" title="Credly Badge">
+        <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_100_100/0/1631309789389?e=1709164800&v=beta&t=Ee-Pc0ewmXphIZYmtthaoMH7BvhcD6FRzt3JaKJ9-pM" width="70px" align="left"/>
+    </a>
+    <a href="https://cs50.harvard.edu/certificates/42b28386-2bb1-4c84-9853-99bde7054759">
+        <strong>CS50x: Introduction to Computer Science</strong>
+    </a>
+    <br>Harvard's CS50
+    <br>Issued Nov 2022
+</p>
+
+<p align="left">
+    <a href="https://courses.cognitiveclass.ai/certificates/feebcc2f87d84a73ae1ec59bfaabc0e6" title="Credly Badge">
+        <img src="https://media.licdn.com/dms/image/D4E0BAQEaCNejK-w0iQ/company-logo_100_100/0/1699545729330/cognitiveclass_logo?e=1709164800&v=beta&t=vWhMkMOZ4mf6niulhclXDEEFY9yUSudFf9x6I9kwYXY" width="70px" align="left"/>
+    </a>
+    <a href="https://courses.cognitiveclass.ai/certificates/feebcc2f87d84a73ae1ec59bfaabc0e6">
+        <strong>SQL and Relational Databases 101</strong>
+    </a>
+    <br>Cognitive Class
+    <br>Issued Oct 2022
+</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
