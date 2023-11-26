@@ -31,17 +31,23 @@
 
 - [Associate Data Analyst](https://www.datacamp.com/certificate/DAA0015252172784) by Datacamp November 2023
 <p align="center">
-    <img width="700" alt="image_2023-11-26_00-31-22" src="https://github.com/TrebleClef20/TrebleClef20/assets/65029347/3e8b4e7a-1fe7-47cd-8d87-ac95669f97b2">
+    <a href="https://drive.google.com/file/d/1snuGzxq3QotUyopkGj4I_RommPUZi8Kv/view?usp=sharing">
+        <img width="700" alt="image_2023-11-26_00-31-22" src="https://github.com/TrebleClef20/TrebleClef20/assets/65029347/3e8b4e7a-1fe7-47cd-8d87-ac95669f97b2">
+    </a>
 </p>
 
-- [Oracle Cloud Data Management 2022 Foundations Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=73AC08648CACD3285B113FC8255D687B5384CF408931735A7AC346A7A20472ED) by Oracle December 2022
+- [Oracle Cloud Data Management 2022 Foundations Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=73AC08648CACD3285B113FC8255D687B5384CF408931735A7AC346A7A20472ED) by Oracle December 2022
 <p align="center">
-    <img width="700" alt="image_2023-11-26_00-54-27" src="https://github.com/TrebleClef20/TrebleClef20/assets/65029347/77de461a-5bdf-40b8-a875-0fc0079dbec7">
+    <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=73AC08648CACD3285B113FC8255D687B5384CF408931735A7AC346A7A20472ED">
+        <img width="700" alt="image_2023-11-26_00-54-27" src="https://github.com/TrebleClef20/TrebleClef20/assets/65029347/77de461a-5bdf-40b8-a875-0fc0079dbec7">
+    </a>
 </p>
 
-- [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B44992A462323AADAFEE59F44B430F760CD5AF56A07B13A929E8E1C037B89375) by Oracle November 2022
+- [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B44992A462323AADAFEE59F44B430F760CD5AF56A07B13A929E8E1C037B89375) by Oracle November 2022
 <p align="center">
-    <img width="700" alt="image_2023-11-26_00-55-09" src="https://github.com/TrebleClef20/TrebleClef20/assets/65029347/af64e122-8e3e-49a4-81cc-4e1b28c32667">
+    <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B44992A462323AADAFEE59F44B430F760CD5AF56A07B13A929E8E1C037B89375">
+        <img width="700" alt="image_2023-11-26_00-55-09" src="https://github.com/TrebleClef20/TrebleClef20/assets/65029347/af64e122-8e3e-49a4-81cc-4e1b28c32667">
+    </a>
 </p>
 
 
