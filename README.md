@@ -126,6 +126,17 @@
 </p>
 
 <p align="left">
+    <a href="https://www.credly.com/badges/4b1783d0-02e0-48da-bf8f-ec1f71a96a6d/public_url" title="Credly Badge">
+        <img src="https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_100_100/0/1688482473854/cisco_logo?e=1709164800&v=beta&t=YGt1QdEnnBta1VS95rW-1lFhB9884MB4h31P71_zQ1k" width="70px" align="left"/>
+    </a>
+    <a href="https://www.credly.com/badges/73acfb54-af31-47f6-a6c9-fc71d6d316e0/public_url">
+        <strong>Introduction to Data Science</strong>
+    </a>
+    <br>Cisco
+    <br>Issued Sept 2023
+</p>
+
+<p align="left">
     <a href="https://freecodecamp.org/certification/TrebleClef20/data-analysis-with-python-v7" title="Developer Certification">
         <img src="https://media.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_100_100/0/1630639684997/free_code_camp_logo?e=1709164800&v=beta&t=_oT9w_MOjvcKUdTP_qVO7Fmmk3yZNw27t_ewB8Z_vbs" width="70px" align="left"/>
     </a>
@@ -137,7 +148,7 @@
 </p>
 
 <p align="left">
-    <a href="https://cs50.harvard.edu/certificates/42b28386-2bb1-4c84-9853-99bde7054759" title="Credly Badge">
+    <a href="https://cs50.harvard.edu/certificates/42b28386-2bb1-4c84-9853-99bde7054759" title="Course Certificate">
         <img src="https://media.licdn.com/dms/image/C4E0BAQGYjmmBCvqLmg/company-logo_100_100/0/1631309789389?e=1709164800&v=beta&t=Ee-Pc0ewmXphIZYmtthaoMH7BvhcD6FRzt3JaKJ9-pM" width="70px" align="left"/>
     </a>
     <a href="https://cs50.harvard.edu/certificates/42b28386-2bb1-4c84-9853-99bde7054759">
@@ -148,7 +159,7 @@
 </p>
 
 <p align="left">
-    <a href="https://courses.cognitiveclass.ai/certificates/feebcc2f87d84a73ae1ec59bfaabc0e6" title="Credly Badge">
+    <a href="https://courses.cognitiveclass.ai/certificates/feebcc2f87d84a73ae1ec59bfaabc0e6" title="Course Certificate">
         <img src="https://media.licdn.com/dms/image/D4E0BAQEaCNejK-w0iQ/company-logo_100_100/0/1699545729330/cognitiveclass_logo?e=1709164800&v=beta&t=vWhMkMOZ4mf6niulhclXDEEFY9yUSudFf9x6I9kwYXY" width="70px" align="left"/>
     </a>
     <a href="https://courses.cognitiveclass.ai/certificates/feebcc2f87d84a73ae1ec59bfaabc0e6">
