@@ -103,21 +103,10 @@
         <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b5736c0242a97efa2fd9377c7e2650732b7cb277"><strong>Writing Functions in Python</strong></a> issued Nov 2023</ul>
 </details>
 
-
-
-
-
-
-
 - [Business Analytics with Excel](https://simpli-web.app.link/e/ap7hTGsmTCb) by Simplilearn September 2023
 - [Data Analysis with Python](https://freecodecamp.org/certification/TrebleClef20/data-analysis-with-python-v7) by freeCodeCamp August 2023
 - [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/certificates/42b28386-2bb1-4c84-9853-99bde7054759) by HarvardX's CS50 November 2022
 - [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/feebcc2f87d84a73ae1ec59bfaabc0e6) by Cognitive Class October 2022
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/trebleclef20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trebleclef20" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
