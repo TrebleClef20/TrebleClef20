@@ -68,6 +68,20 @@
     <br>DataCamp
     <br>Issued Nov 2023</p>
 <p align="left">
+    
+<details>
+<summary>View 32 more certificate from Datacamp</summary>
+- [Business Analytics with Excel](https://simpli-web.app.link/e/ap7hTGsmTCb) by Simplilearn September 2023
+- [Business Analytics with Excel](https://simpli-web.app.link/e/ap7hTGsmTCb) by Simplilearn September 2023- 
+- [Business Analytics with Excel](https://simpli-web.app.link/e/ap7hTGsmTCb) by Simplilearn September 2023
+<br>
+</details>
+
+
+
+
+
+
 
 - [Business Analytics with Excel](https://simpli-web.app.link/e/ap7hTGsmTCb) by Simplilearn September 2023
 - [Data Analysis with Python](https://freecodecamp.org/certification/TrebleClef20/data-analysis-with-python-v7) by freeCodeCamp August 2023
