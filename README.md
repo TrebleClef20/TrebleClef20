@@ -58,7 +58,7 @@
         <img src="https://media.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1709164800&v=beta&t=nw4-c14iecX6q0pl-WyHc46TH1itt3mjyD_sCyJI0qw" width="70px" align="left"/>
     </a>
     <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/bc8a45a9216f5582e45930b9cb6fb2651dd94521">
-        <strong>Data Scientist Professional Track</strong>
+        <strong>Data Scientist Professional with Python Track</strong>
     </a>
     <br>DataCamp
     <br>Issued Nov 2023
@@ -68,14 +68,19 @@
     <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a0fe0ae72627152f313741077442a4bb79e6a144" title="Statement of Accomplishment">
         <img src="https://media.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1709164800&v=beta&t=nw4-c14iecX6q0pl-WyHc46TH1itt3mjyD_sCyJI0qw" width="70px" align="left"/>
     </a>
-    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a0fe0ae72627152f313741077442a4bb79e6a144">
-        <strong>Data Scientist Track</strong>
-    </a>
-    <br>DataCamp
-    <br>Issued Nov 2023
+        <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a0fe0ae72627152f313741077442a4bb79e6a144">
+            <strong>Data Scientist with PythonTrack</strong>
+        </a>
+        <br>DataCamp
+        <br>Issued Nov 2023
 </p>
+
+
+
+
+
 <details>
-    <summary><strong>View 31 more certificates from Datacamp</strong></summary>
+    <summary><strong>View 31 more course completions / certificates from Datacamp</strong></summary>
         <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/cb4cdd79bfd7581a355bb27482db3197c2491bfb"><strong>Cleaning Data in Python</strong></a> issued Nov 2023</ul>
         <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/cac5cb535a6dbcb92ecf7fb36e48d63197ba69dc"><strong>Data Communication Concepts</strong></a> issued Nov 2023</ul>
         <ul>• <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b119851ca27a9831de269ffe2466cec172308070"><strong>Data Manipulation with pandas</strong></a> issued Nov 2023</ul>
