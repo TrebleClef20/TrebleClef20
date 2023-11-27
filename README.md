@@ -69,7 +69,7 @@
         <img src="https://media.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_100_100/0/1630577190840/datacampinc_logo?e=1709164800&v=beta&t=nw4-c14iecX6q0pl-WyHc46TH1itt3mjyD_sCyJI0qw" width="70px" align="left"/>
     </a>
         <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a0fe0ae72627152f313741077442a4bb79e6a144">
-            <strong>Data Scientist with PythonTrack</strong>
+            <strong>Data Scientist with Python Track</strong>
         </a>
         <br>DataCamp
         <br>Issued Nov 2023
