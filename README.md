@@ -5,7 +5,7 @@
 </a>
 
 <h1 align="center">Hi, I'm Trebiger Harah Calma</h1>
-<h3 align="center">A Certified Data Analyst Associate.</h3>
+<h3 align="center">A Certified Data Scientist Associate <br> and a Certified Data Analyst Associate.</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/trebleclef20/">
