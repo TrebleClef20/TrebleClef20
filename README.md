@@ -29,6 +29,13 @@
 
 ## Professional Certifications
 
+- [Associate Data Scientist](https://www.datacamp.com/certificate/DSA0010458328210) by Datacamp December 2023
+<p align="center">
+    <a href="https://drive.google.com/file/d/1R4WUsaISKvOkGt6BxzzeMkwG9Si6AerM/view?usp=sharing">
+        <img width="700" alt="image_2023-12-27_15-28-15" src="https://github.com/TrebleClef20/TrebleClef20/assets/65029347/1c729242-e11e-4055-9855-cb57a66de28e">
+    </a>
+</p>
+
 - [Associate Data Analyst](https://www.datacamp.com/certificate/DAA0015252172784) by Datacamp November 2023
 <p align="center">
     <a href="https://drive.google.com/file/d/1snuGzxq3QotUyopkGj4I_RommPUZi8Kv/view?usp=sharing">
